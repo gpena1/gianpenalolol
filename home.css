@@ -1,0 +1,42 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #000000;
+}
+.home-text {
+  top: 350px;
+  left: 200px;
+  color: #ffffff;
+  right: 200px;
+  margin: auto;
+  position: absolute;
+  font-size: 4em;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 100;
+}
+.home-text01 {
+  top: 444px;
+  left: 0px;
+  color: #ffffff;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 100;
+}
+.home-text07 {
+  text-decoration: underline;
+}
+.home-text08 {
+  text-decoration: underline;
+}
