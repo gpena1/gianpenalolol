@@ -5,7 +5,7 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-end;
   background-color: #000000;
 }
 .home-text {
@@ -22,7 +22,7 @@
   font-weight: 100;
 }
 .home-text01 {
-  top: 444px;
+  top: 431px;
   left: 0px;
   color: #ffffff;
   right: 0px;
@@ -39,4 +39,32 @@
 }
 .home-text08 {
   text-decoration: underline;
+}
+.home-link1 {
+  display: contents;
+}
+.home-image {
+  top: 635px;
+  left: 0px;
+  right: 0px;
+  width: 43px;
+  height: 43px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.home-link2 {
+  display: contents;
+}
+.home-image1 {
+  left: 0px;
+  right: 0px;
+  width: 52px;
+  bottom: 265px;
+  height: 43px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
 }
