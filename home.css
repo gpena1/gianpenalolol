@@ -44,7 +44,7 @@
   display: contents;
 }
 .home-image {
-  top: 635px;
+  top: 640px;
   left: 0px;
   right: 0px;
   width: 43px;
@@ -58,10 +58,10 @@
   display: contents;
 }
 .home-image1 {
+  top: 738px;
   left: 0px;
   right: 0px;
   width: 52px;
-  bottom: 265px;
   height: 43px;
   margin: auto;
   position: absolute;
